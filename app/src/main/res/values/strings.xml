@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Pedidos UTS</string>
+    <string name="title_activity_product">ProductActivity</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="txt_nombre">TextView</string>
+    <string name="title_activity_products">ProductsActivity</string>
+    <string name="title_activity_client">ClientActivity</string>
+    <string name="title_activity_clients">ClientsActivity</string>
+    <string name="title_activity_client_detail">ClientDetailActivity</string>
+    <string name="title_activity_storage">StorageActivity</string>
+</resources>
